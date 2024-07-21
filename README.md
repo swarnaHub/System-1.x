@@ -7,7 +7,7 @@
 *Comparative Overview of System-1, System-2, and System-1.x Planning*
 ![image](./assets/intro.png)
 
-*Overview of System-1.x*
+*System-1.x*
 ![image](./assets/method.png)
 
 ## Installation
