@@ -1,6 +1,6 @@
-# System-1.x
+# System-1.x: Learning to Balance Fast and Slow Planning with Language Models
 
-[System-1.x: Learning to Balance Fast and Slow Planning with Language Models]()
+[Paper](https://arxiv.org/abs/2407.14414)
 
 [Swarnadeep Saha](https://swarnahub.github.io/), [Archiki Prasad](https://archiki.github.io/), [Justin Chih-Yao Chen](https://dinobby.github.io/), [Peter Hase](https://peterbhase.github.io/), [Elias Stengel-Eskin](https://esteng.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
@@ -48,7 +48,7 @@ Experiments on Blocksworld follow a similar pattern. Check out the scripts insid
 @article{saha2023system-1.x,
   title={System-1.x: Learning to Balance Fast and Slow Planning with Language Models},
   author={Saha, Swarnadeep and Prasad, Archiki and Chen, Justin Chih-Yao and Hase, Peter and Stengel-Eskin, Elias and Bansal, Mohit},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2407.14414},
   year={2024}
 }
 ```
